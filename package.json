@@ -9,14 +9,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/kusumW/hapijs.git"
+    "url": "git+https://github.com/kusumW/hapi-js.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/kusumW/hapijs/issues"
+    "url": "https://github.com/kusumW/hapi-js/issues"
   },
-  "homepage": "https://github.com/kusumW/hapijs#readme",
+  "homepage": "https://github.com/kusumW/hapi-js#readme",
   "dependencies": {
     "@hapi/hapi": "^21.3.2",
     "@prisma/client": "^4.16.0",

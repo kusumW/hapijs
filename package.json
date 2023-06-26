@@ -1,0 +1,29 @@
+{
+  "name": "hapi",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start:dev": "nodemon"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kusumW/hapijs.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kusumW/hapijs/issues"
+  },
+  "homepage": "https://github.com/kusumW/hapijs#readme",
+  "dependencies": {
+    "@hapi/hapi": "^21.3.2",
+    "@prisma/client": "^4.16.0",
+    "dotenv": "^16.3.1",
+    "http-status": "^1.6.2",
+    "httpstatus": "^1.0.0",
+    "nodemon": "^2.0.22",
+    "prisma": "^4.16.0"
+  }
+}
